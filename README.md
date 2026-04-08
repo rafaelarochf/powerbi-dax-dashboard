@@ -43,11 +43,10 @@ Mesmo focando no aprendizado de DAX, o dashboard possibilita identificar:
 2. Clone o repositório:
 ```bash
 git clone https://github.com/rafaelarochf/analise-vendas-powerbi
+```
 
 **Créditos:**  
 Projeto desenvolvido no curso *Master Power BI – DAX* (Felipe Mafra). Todo o aprendizado e prática aplicados no projeto são fruto da metodologia e instruções do curso.
-
-```
 
 ## Demonstração do Dashboard
 
